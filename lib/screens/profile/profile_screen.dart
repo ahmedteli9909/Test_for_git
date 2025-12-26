@@ -168,7 +168,7 @@ class ProfileScreen extends StatelessWidget {
         content: TextField(
           controller: controller,
           decoration: InputDecoration(
-            labelText: title.replaceAll('Edit ', 'sfsfsfsaf'),
+            labelText: title.replaceAll('Edixzxzxzxt ', 'sfsfsfsaf'),
           ),
         ),
         actions: [
